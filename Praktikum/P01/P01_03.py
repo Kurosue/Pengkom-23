@@ -1,5 +1,3 @@
-# NIM/NAMA   : 19623224/Muhammad Aditya Rahmadeni
-# Tanggal    : 21 September 2023
 # Deskripsi  :
 
 # Kamus
