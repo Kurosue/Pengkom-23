@@ -26,5 +26,3 @@ for i in range(1,N+1):
     # Jika nilai sama adalah salah, maka orang yang diundang tidak hadir
     if not Sama:
         print(i, end = ' ')
-
-# Bismillah nilai 100 untuk P02 dan P03 :)
