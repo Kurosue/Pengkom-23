@@ -1,5 +1,3 @@
-# NIM/NAMA  : 19623224/MUHAMMAD ADTYA RAHMADENI
-# TANGGAL   : 9 Oktober 2023
 # DESKRIPSI : Program mencari peserta yang tidak hadir
 
 # KAMUS
