@@ -1,5 +1,3 @@
-# NIM/NAMA  : 19623224/MUHAMMAD ADTYA RAHMADENI
-# TANGGAL   : 10 Oktober 2023
 # DESKRIPSI : Program mencari nilai maksimal dari array
 
 # KAMUS
